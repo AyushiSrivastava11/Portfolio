@@ -3,6 +3,8 @@ import Navbar from "./sections/Navbar.jsx";
 import Hero from "./sections/Hero.jsx";
 import About from "./sections/About.jsx";
 import Projects from "./sections/Projects.jsx";
+import { Button } from "./components/ui/button.jsx";
+import { ThreeDCardDemo } from "./components/ThreeDCardDemo.jsx";
 
 const App = () => {
   return (
@@ -11,6 +13,7 @@ const App = () => {
       <Hero />
       <About />
       <Projects />
+      <ThreeDCardDemo/>
     </main>
   );
 };
