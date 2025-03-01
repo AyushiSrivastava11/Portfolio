@@ -13,7 +13,7 @@ const App = () => {
       <Hero />
       <About />
       <Projects />
-      <ThreeDCardDemo/>
+      {/* <ThreeDCardDemo/> */}
     </main>
   );
 };
