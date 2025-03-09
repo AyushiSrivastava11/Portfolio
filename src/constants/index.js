@@ -143,7 +143,7 @@ export const navLinks = [
     },
     {
       title: 'Hero Hai App',
-      image: '/assets/telemedevin.png',
+      image: '/assets/herohaiapp.png',
       github: 'https://github.com/AyushiSrivastava11/hero-hai-app',
       spotlight: '/assets/spotlight2.png',
 
